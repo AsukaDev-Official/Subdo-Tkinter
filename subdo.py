@@ -7,7 +7,7 @@ import requests, json
 root = tkinter.Tk()
 root.title('Subdomain Scanner')
 
-header = Label(root, text='Subdomain Scanner\nCoded : Tegar Dev').pack()
+header = Label(root, text='Asukadev Official\nSubdomain Scanner\nCoded : Tegar Dev').pack()
 
 L1 = Label(root, text="Url : ")
 L1.pack()

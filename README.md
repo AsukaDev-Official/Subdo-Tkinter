@@ -63,13 +63,13 @@ This is Subdomain Scanner Program
   ```
 
 - ```bash
-  $ git clone https://github.com/AsukaDev-Official/Subdomain-Scanner
+  $ git clone https://github.com/AsukaDev-Official/Subdo-Tkinter
   ```
 
 - ```bash
-  $ cd Subdomain-Scanner 
+  $ cd Subdo-Tkinter
   ```
 
 - ```bash
-  $ python3 sub.py
+  $ python3 subdo.py
   ```
